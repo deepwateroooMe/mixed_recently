@@ -3,13 +3,16 @@
 #+author: deepwaterooo
 
 * me
-- My *deepwaterooo* GitHub account was taken away from me temporatorily,
+- My *deepwaterooo* GitHub account ownership was taken away from me temporatorily,
   without reasonable update when they are supposed to return my
   ownership. 
 - This *deepwateroooMe* GitHub account is the temporatorily newly
   created one to maintain my security, watching deepwaterooo account. 
 - Once *deepwaterooo* ownership is returned back to me, I will switch
   back to deepwaterooo, and *leave this one linked with deepwaterooo account.*
+- My *emacs configuration is still messy right now*. Because *they hide almost all the 5 repositories to be private* that I have even commited into GitHub
+  ever since I worked for the company, leaving me no way to sync up my
+  emacs configurations, nor any other about 3 repositories. 
 
 * LOVE MY DEAR COUSIN: looking for help form professional attorneys
 Hi, 
@@ -52,5 +55,6 @@ thanks. I look forward to hearing from you.
  GitHub deepwaterooo OWNSHIP BACK!
 - Meanwhile the landloard wifi company is trying every means to block
   me from uploading anything into my newly opened deepwateroooMe
-  GitHub account.  
+  GitHub account. I am NOT able to upload any larger repositories any
+  more except simple files.  
 
