@@ -1,6 +1,6 @@
 #+latex_class: book
 #+title: deepwaterooo deepwateroooMe -- I am the same GitHub account person
-#+author: deepwaterooo
+#+author: deepwaterooo 
 
 * me
 - My *deepwaterooo* GitHub account ownership was taken away from me temporatorily,
@@ -37,3 +37,8 @@ quote as well.
 
 thanks. I look forward to hearing from you. 
 
+* Contents
+- *.zshrc* reference for *Window 10 WSL Ubuntu terminator zsh;*
+- *config* for  *Window 10 WSL Ubuntu terminator configuration;*
+- *wubi_**: for Rime windows Chinese Wubi input method configurations. 
+- all above use as reference so that when change laptop, new environment can be set up as soon as possible. 
