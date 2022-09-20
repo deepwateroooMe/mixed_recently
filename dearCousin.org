@@ -2,32 +2,34 @@
 #+title: Appellant's Desigtnation of Record on Appeal
 #+author: Heyan Jenny Huang
  
-* 几个主要的关注点：根据表哥的陈述，每条反驳回去
-- to be summarized and finished this evening
-** Other court cases
+* Other court cases
    
 [[./pic/dearCousin_20220919_153339.png]]
-- There are 2 ACTIVE cases going on: *P22-1146* and *P22-1162*; 1 expired case of *P14-1307*
-  - *P22-1146:*
+** There are 2 ACTIVE cases going on: *P22-1146* and *P22-1162*;
+*** *P22-1146:*
     
 [[./pic/dearCousin_20220919_185022.png]]
-  - *P22-1162:*
+- Due to the slightly relatively late response of court arrangement of hearing, a person without necessary boundary understandings does NOT have the necessary chance in time to learn and self-correct his/her behavior after ONE such mistake. 
+*** *P22-1162:*
     
 [[./pic/dearCousin_20220919_185057.png]]
-  - There are 2 Active cases, but the cases were only taken care of after the second P22-1162 incident, *which date for both cases were set up hearing on July 21, 2022*, and which were after the 2nd incident and I would have NO chance/opportunity to learn nor correct myself without IN TIME hearing after 1st incident.
-- The above listed *P14-1307*: 
+- There are 2 Active cases, but the cases were only taken care of after the second P22-1162 incident, *which date for both cases were set up hearing on July 21, 2022*, and which were after the 2nd incident and I would have NO chance/opportunity to learn nor correct myself without IN TIME hearing after 1st incident.
+*** There is 1 EXPIRED case of *P14-1307*
 - 是当地的法院没有及时地通知我或是办理案件，让我没有机会学习和校正自己的行为, 不管是6/17号的，还是接下来的，我没有机会学习来校正自己
-** Length of Order一年，多于一年，一辈子(法官真是生猛呀，一令就是一辈子。。。。。)
+
+* Length of Order一年，多于一年，一辈子(法官真是生猛呀，一令就是一辈子。。。。。)
    
 [[./pic/dearCousin_20220919_153711.png]]
 - Who came to US as an international student, *I do NOT have nor by any means learn and understand these legal terms*, and I *DO have been* interpreting the expireation of P14-1307 as permission to resume trying. As an previous girl friend who is still deeply falling in love for a previous boyfriend, who will stop trying by any means though?
-
+- We understand petitioner's understandable intention, but *we also need to consider and allow the respnodent chance and opprotunities to grow, to learn as well as correct herself*, instead of setting up permanent protection orders without reasonable consideration on response's side of story and feelings. 
 - 是的，我以为保护令的期限到了便是过期了，我便可以retry 恢复男女朋友关系了。。。
 - 听证会上，我向法官陈述了，我是国际留学生，对美国社会法律并不了解；
-** Most Recent Incident
+
+* Most Recent Incident
    
 [[./pic/dearCousin_20220919_183412.png]]
-** Past Incidents
+
+* Past Incidents
    
 [[./pic/dearCousin_20220919_183625.png]]
 
@@ -43,6 +45,10 @@
   - If the court issues an extended order for protection, the adverse party can file an appeal to the district court. (There is no appeal allowed if the court denies an application to extend a protection order, only if the court grants the extension.) The district court will typically not hear new evidence on an appeal. The court will review the documentation and other information that was presented to the justice court in order to decide whether the justice of the peace made any error of law in granting the extended protection order. 
 - The district court can affirm, modify, or vacate the justice court’s order. (In other words, the district court can keep the order in place, change it in some way, or do away with it completely.) 
 - TIP!  If the hearing on the extended protection order you're appealing was recorded, you must order a copy of the hearing transcript from the court reporter and deposit $100 with the court (unless some greater amount was ordered).  (JCRCP 74(b).)  If the hearing wasn't recorded, you must fill out and file the Statement of Evidence or Proceedings form below.
+
+* 几个主要的关注点：根据表哥的陈述，每条反驳回去
+- to be summarized and finished this evening
+
 
 * Statements
 - 现在的问题是我需要把文件也传给表哥吗？可是我只有一两天的时间[不用再担心这个问题，该发出去的邮件，该寄出去的材料全都寄出去了，最慢也三天之内可以到达了，不用担心]
