@@ -1,0 +1,97 @@
+#+latex_class: cn-article
+#+title: A targetted misbehavior on Propose
+#+author: deepwaterooo
+
+* 三次无中生有
+- *【它导师第一次带它去看WSU 女篮比赛的下午：】* 它大概因为起床晚，走得急，来不及锁门。但是它回来我问起，它谎称我早上出门时没关门，门是敞开半开状态；继而继续撒谎说我把车也开走了。。。我说我没有开车去党校，车在家里。它才认底，说它记不得我车长什么样了。我无法相信它说门上敞开半开状态，更相信它撒谎。
+- *【我第二次去COSTCO 之后一周，连续两天两次】* ：制造事件，我外面打不开门，它是帮开门了，却说门没有锁，为什么我要它开门？我有哑巴吃黄莲无法对证的苦，却不知道这样的该如何继续沟通？第二天，它再说我没关好水龙头，是流水状态，无法相信，感觉自己的智商情商被愚弄，它是想要对我证傻？
+* 主要 scheduling
+- *【租住时：我方】* 原计划是两个月，差不多是到 3/31/2023.
+- *【租住时：它方】* 它隐身暗处的做法是，找时机，适时清楚清晰告诉你：它的工资是由它自己的国家土耳其支付，它不领领不到WSU 任何工资。让你清楚感知，正如它的招租贴子在网上，它有经济帮助需求， *我同样想要去帮助它。心理上，我也从来觉得我们互相帮助，两个人平等。*
+- *【过程中，WSU EECS Ph.D Application ※ Admission:】* 因为申请Ph.d in EECS, waiting for result, and unofficial admission. Boundaries did have been changed from my side, but I have always notified her the first time I could, and I think she is notified and clear about all the changes, and I have NEVER expected her ABNOMAL BEHAVIROS. 
+  - Submitted Application time: around 1/30/2023?check
+  - *Unoffical admission time: 3/2/2023*. I stated I would wait for my official admission so that I may be qualified or they may be able to consider my applying for residence for Spring and Summer semester. She did NOT refuse, nor stated anything. *【Boundaries did have been crossed from my side as I was happy for my admission, and proud to be a coug.】*  But she knew it, and seemed she had no problem with it at all. No refuse from her side. 
+
+* 租住过程中的主要事件与日期设置
+- 3/1/2023: When I paid the monthly rent that day, I checked her required notice time, she answered 2 weeks. I stated I will make sure I leave her at least 2 week notice time. 
+- *Unoffical admission time: 3/2/2023*. I stated I would wait for my official admission so that I may be qualified or they may be able to consider my applying for residence for Spring and Summer semester. She did NOT refuse, nor stated anything. *【Boundaries did have been crossed from my side as I was happy for my admission, and proud to be a coug.】* But she knew it, and seemed she had no problem with it at all. No refuse from her side. 
+- *3/7/2023*: She set hard deadline from her side that her boyfriend is coming for visiting her in May. My last day of staying with her would be 5/1/2023.
+
+* 当事件结果不如预期，个性上，它傾向于首先去怪罪别人
+- *【吃饭小费问题：】* 周日，它因为不愿意出小费，而语言上攻击怪罪我，强说我迫它出去吃的！！！我狠无语。
+- *【第二次 COSTCO 两样东西：】* 它两面三刀怪别人逼它买，我没有。它至少有两次非常清楚的选择、自主作决定机会. 周日跟它清楚解释过，它承认了我没有逼它。
+
+* 三次 article-shock 想法撞击
+** Recommendation for EECS Ph.D Candicate
+
+[[./pic/readme2_20230329_092732.png]]
+- I felt it was very cold, a Recommendation letter from some person 10000 miles away. did feel shock. But communicate and adjusted to be: 
+  
+[[./pic/readme2_20230329_094952.png]]
+** Suggestion for replying back a potential Ph.D Candidate screening from my advisor
+- 收到邮件那天晚上，它要看我的邮件，我就让它看。它口头表达困难，但写，却可以极端清晰地表达出它的观点：因为重点分明，言简意该，清楚地知道如何选择角度与用词来表达支持它的立场，没有任何废话。
+- 使用 google translate: 它的观点清晰可见：我从13 年到现在九年工作了（只有）五份工作，是个彻底的 LOSER. 总结这个Ph.D Candidate 扫描是为是这个导师和WSU 的 advertisement. 
+没有纪录，无法追塑。【这更像是一个人摧残别人正常三观与价值观的方式，非常人能表达如此观点。。。】
+- 被它的观点，被它心底我是一个彻头彻尾的雷到外蕉里嫩，像一盆液氮沷在身上，彻底被 shock, 希望一秒内结束与它所有一切的谈话，再无任何想要跟它继续讨论或是说的话。
+** 昨天的它提供的它的说词：我同样被它一再的撒谎与，它所选择的撒谎、角度与用词表达，雷到
+- As we confirmed and cleared in front of the policemans, that we do NOT need to help the other, I believe we should take our full financial responsibilities towards the mistakes we made earlier. I do NOT need your help, and you can always take your full financial responsibilities as well then you are trying to help any other person.
+- I did NOT see any paper document on dining table last night.
+- If you do have it ready, please leave a copy on the dining table before you leave for office today, so that I could bring it with me when I consult for professional advise considering my international background, as well as you first four months international cultural shock in US. And they may be able to offer more exact suggestions how I should handle this case. Thank you.
+  
+[[./pic/readme2_20230329_102715.png]]
+* Boundaries have been confused and crossed by her all the time
+- *1/15/2023, 1/17/2023*: when deciding accepting me renting here or not, *boundaries have been crossed on propose* known to both of us, as both of us think the other has needs and need some help. I did ask what if the administration department asked, she answered that she would admit that I was/am her girlfriend.
+- *【第一次带它出去买菜：】* 用一盒最大包装的蓝霉试探。我帮它，带它出去买菜，它那里变成了它试图 take ADVANTAGE OF ME. 【第一次，可以当作两个人共同，或是沟通的问题】
+- 【第二次 COSTCO 两样东西：】它两面三刀怪别人逼它买，我没有。它至少有两次非常清楚的选择、自主作决定机会
+- *【过程中，WSU EECS Ph.D Application ※ Admission:】* 因为申请Ph.d in EECS, waiting for result, and unofficial admission. Boundaries did have been changed from my side, but always notified her first time, and I think she is notified and clear, NEVER expected her ABNOMAL BEHAVIROS. 
+
+* Stated communication helps Suggestions
+I did NOT realize that you took apartment key with you until a moment ago when I was planning go out for biking. I understand and agree that it is hard for both of us to talk to the other by us own nowadays. 
+
+But I don't think you are supposed to bring key away and limit my access of using it. 
+
+You tried your options of bring your friends, and called police yesterday. I agree with them that we need to set up and sign paperwork to legally protect ourselves, even before you had denied this suggestion. 
+
+If you are not referencing their suggestions, my current out of mind ideas include the following: 
+
+- appearantly it was both of our mistake trying to help the other. No need, and we could admit our mistakes to apartment administator, and conpensate financially from both of us for our bad influence on compus, as well as tear out damages. 
+
+- I will consult info about availabe sharable apartment. And if they do have, I will try to move out as soon as possible. 
+
+- As we may be sufferding from talking to each other by us own, it may be a good idea reach out for help from them -- the current apartment administator. They are the resource that we could try to reach, and help ourselves out.
+
+- Othewise, if not needed by you, I still prefer help from administatation department to solve this without abnormal behaviors. By which I mean, at least a third person resource as evidence, instead of talking between us. I prefer set up deadline of 4/30/2023. But we need setup paperwork as soon as possible, so that later you could take legal action if I am doing anything wrong. 
+
+- Please return my car key tonight, and I don't feel safe leaving it with you any more. 
+ 
+- I am currently staying inside the house, not knowing if I am able to leave the door unlocked. as no known knowledge about your opinion. 
+
+- If you agree we reach help from apartment administator, I will try to adjust to your schedule for meeting them, when you are availabe recently. 
+
+Thanks for your attention. And I appreciate 。。。
+
+* Stated lies she made earlier
+- I was sitting inside the house, the apartment administration officer outside, asking if she smoke inside the house. She did. But she did answer she smoked outside and her cloth had some leftover smells. [before spring break]
+- She hidenly expressed her needs by stating she is NOT paid by WSU, but by her own country and government, which did make me feel she is in need of help at same time.
+- I suggested lease and receipts initially, she denied to avoid all possible troubles. And suggested and saw me deleted my asking for receipt text message.
+- Meanswhile, she crossed all the boundaries to be in favor of herself all the time: 
+  - 3/1/2023, I checked with her about her required notice time, she stated 2 weeks. I said I will make sure I give her 2 weeks notice time. But she blured and pretended to misunderstood the communication and stated I claimed to move out on 3/31/2023 but I did NOT. 
+- I did have been waiting for my Ph.D admission. And after I got unoffice one, she and I changed the deadline together by waiting for my formal admision so that maybe I could apply for WSU sharable housing for spring and summer semester as a formal Fall 2023 Ph.D student. 
+- The day I got unformally admited, I expressed my wish of after having been formal admitted, I want to apply for sharable housing. She did NOT really have any tear, but she pretended she has tears to wipe, and she did wipe her eyes, and made me think she is still in need of my help for her to afford the rent. 
+- On 3/26/2023, she tried extrema behaviors towards me without any chance, as she on propose all the time lied to pretend her stand:
+  - I suggested my turn of chance get understand by her, as she has at least apologized to me once, she denied;
+  - I suggested 5 days is not enough for urgent notice, if not allowing time, allow some finacial compensate, she denied;
+  - I suggested the finacial compensate may not apply on me, but return back to WSU as we did break the rules, she and all her friends denied. She does NOT want to take any responsiblity on her proposed breaking the rules. 
+- Yesterday I suggested, emphasized these to her too, but she ignored them on propose to financially protect herself, but blame all mistakes on me. 
+- she LIES ALL THE TIMES ON PROPOSE.
+
+
+
+
+
+
+
+
+
+
+
